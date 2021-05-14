@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="304724f2-dbcf-4e1d-8f8a-36fe9ea42a0a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aCW9HOn0zpCoNLN9eF3x2Hl3LK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.FruitStore">
+    <configuration name="FruitOrVegie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FruitOrVegie" />
+      <module name="ConditionAdvanced" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FruitStore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FruitStore" />
+      <module name="ConditionAdvanced" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NUmberInterval" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NUmberInterval" />
+      <module name="ConditionAdvanced" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShopTown" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.ShopTown" />
+      <module name="ConditionAdvanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SkiTrip" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SkiTrip" />
+      <module name="ConditionAdvanced" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.FruitOrVegie" />
+      <item itemvalue="Application.FruitStore" />
+      <item itemvalue="Application.NUmberInterval" />
+      <item itemvalue="Application.ShopTown" />
+      <item itemvalue="Application.SkiTrip" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FruitStore" />
+        <item itemvalue="Application.SkiTrip" />
+        <item itemvalue="Application.FruitOrVegie" />
+        <item itemvalue="Application.NUmberInterval" />
+        <item itemvalue="Application.ShopTown" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="304724f2-dbcf-4e1d-8f8a-36fe9ea42a0a" name="Default Changelist" comment="" />
+      <created>1586239902901</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586239902901</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="933" y="170" key="FileChooserDialogImpl" timestamp="1586327019867">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="933" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586327019867" />
+    <state width="724" height="212" key="GridCell.Tab.0.bottom" timestamp="1586501441649">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="724" height="212" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586501441649" />
+    <state width="724" height="212" key="GridCell.Tab.0.center" timestamp="1586501441649">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="724" height="212" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586501441649" />
+    <state width="724" height="212" key="GridCell.Tab.0.left" timestamp="1586501441649">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="724" height="212" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586501441649" />
+    <state width="724" height="212" key="GridCell.Tab.0.right" timestamp="1586501441649">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="724" height="212" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586501441649" />
+    <state width="723" height="257" key="GridCell.Tab.1.bottom" timestamp="1586327025185">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="257" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586327025185" />
+    <state width="723" height="257" key="GridCell.Tab.1.center" timestamp="1586327025185">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="257" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1586327025185" />
+    <state width="723" height="257" key="GridCell.Tab.1.left" timestamp="1586327025185">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="257" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1586327025185" />
+    <state width="723" height="257" key="GridCell.Tab.1.right" timestamp="1586327025185">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="257" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1586327025185" />
+    <state x="729" y="265" key="com.intellij.ide.util.TipDialog" timestamp="1586325839897">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="729" y="265" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1586325839897" />
+    <state x="418" y="32" key="new project wizard" timestamp="1589798097023">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="418" y="32" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1589798097023" />
+    <state x="814" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1586277039442">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="814" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1586277039442" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Main.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SkiTrip.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

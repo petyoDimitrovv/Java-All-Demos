@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="88f46bdf-95a6-4879-9eab-d961b7332cac" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1anN4rTYYmy2VGcrRUiGdQj39KE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.ReverseString">
+    <configuration name="GameTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GameTime" />
+      <module name="JavaAdvancedFirstStep" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GamingStore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GamingStore" />
+      <module name="JavaAdvancedFirstStep" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReverseString" />
+      <module name="JavaAdvancedFirstStep" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Vend" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Vend" />
+      <module name="JavaAdvancedFirstStep" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Vending" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Vending" />
+      <module name="JavaAdvancedFirstStep" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.GameTime" />
+      <item itemvalue="Application.GamingStore" />
+      <item itemvalue="Application.ReverseString" />
+      <item itemvalue="Application.Vend" />
+      <item itemvalue="Application.Vending" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ReverseString" />
+        <item itemvalue="Application.Vending" />
+        <item itemvalue="Application.Vend" />
+        <item itemvalue="Application.GamingStore" />
+        <item itemvalue="Application.GameTime" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="88f46bdf-95a6-4879-9eab-d961b7332cac" name="Default Changelist" comment="" />
+      <created>1587367209531</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587367209531</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="950" y="297" width="403" height="236" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1587544167424">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="950" y="297" width="403" height="236" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1587544167424" />
+    <state width="726" height="211" key="GridCell.Tab.0.bottom" timestamp="1587631000770">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="726" height="258" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1587556581448" />
+    <state width="726" height="211" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587631000770" />
+    <state width="723" height="210" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587403812545" />
+    <state width="726" height="211" key="GridCell.Tab.0.center" timestamp="1587631000770">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="726" height="258" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1587556581448" />
+    <state width="726" height="211" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587631000770" />
+    <state width="723" height="210" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587403812545" />
+    <state width="726" height="211" key="GridCell.Tab.0.left" timestamp="1587631000770">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="726" height="258" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1587556581448" />
+    <state width="726" height="211" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587631000770" />
+    <state width="723" height="210" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587403812545" />
+    <state width="726" height="211" key="GridCell.Tab.0.right" timestamp="1587631000770">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="726" height="258" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1587556581448" />
+    <state width="726" height="211" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587631000770" />
+    <state width="723" height="210" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587403812545" />
+    <state width="726" height="258" key="GridCell.Tab.1.bottom" timestamp="1587556581449">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="726" height="258" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1587556581449" />
+    <state width="725" height="258" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587548216282" />
+    <state width="726" height="258" key="GridCell.Tab.1.center" timestamp="1587556581449">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="726" height="258" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1587556581449" />
+    <state width="725" height="258" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1587548216282" />
+    <state width="726" height="258" key="GridCell.Tab.1.left" timestamp="1587556581448">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="726" height="258" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1587556581448" />
+    <state width="725" height="258" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1587548216282" />
+    <state width="726" height="258" key="GridCell.Tab.1.right" timestamp="1587556581449">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="726" height="258" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1587556581449" />
+    <state width="725" height="258" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1587548216282" />
+    <state x="771" y="154" key="com.intellij.ide.util.TipDialog" timestamp="1587622360252">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="771" y="154" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1587552332165" />
+    <state x="771" y="154" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1587622360252" />
+    <state x="802" y="85" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1587369951308">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="802" y="85" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824@0.0.1536.824" timestamp="1587369951308" />
+    <state x="418" y="0" key="new project wizard" timestamp="1587622391521">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="418" y="0" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1587622391521" />
+    <state x="815" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1587478453128">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="815" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1587478453128" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/GameTime.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ReverseString.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/GamingStore.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Vend.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

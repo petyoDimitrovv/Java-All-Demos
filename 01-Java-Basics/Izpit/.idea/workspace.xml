@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f04494ae-a2fb-4b71-aafa-15d12af8e448" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eG1dw1YKzGjTDWxFQ0e4Y8cGWw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.Demo">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo" />
+      <module name="Izpit" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exam2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exam2" />
+      <module name="Izpit" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExamCategories3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExamCategories3" />
+      <module name="Izpit" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExamPreparation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExamPreparation" />
+      <module name="Izpit" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="exam1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exam1" />
+      <module name="Izpit" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Demo" />
+      <item itemvalue="Application.ExamCategories3" />
+      <item itemvalue="Application.Exam2" />
+      <item itemvalue="Application.exam1" />
+      <item itemvalue="Application.ExamPreparation" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.exam1" />
+        <item itemvalue="Application.ExamPreparation" />
+        <item itemvalue="Application.Exam2" />
+        <item itemvalue="Application.ExamCategories3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f04494ae-a2fb-4b71-aafa-15d12af8e448" name="Default Changelist" comment="" />
+      <created>1593933206279</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593933206279</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="861" y="93" width="582" height="638" key="DiffContextDialog" timestamp="1593947703572">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="861" y="93" width="582" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1593947703572" />
+    <state width="724" height="207" key="GridCell.Tab.0.bottom" timestamp="1593948109587">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="724" height="207" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593948109587" />
+    <state width="724" height="207" key="GridCell.Tab.0.center" timestamp="1593948109586">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="724" height="207" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1593948109586" />
+    <state width="724" height="207" key="GridCell.Tab.0.left" timestamp="1593948109586">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="724" height="207" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1593948109586" />
+    <state width="724" height="207" key="GridCell.Tab.0.right" timestamp="1593948109587">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="724" height="207" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1593948109587" />
+    <state width="724" height="266" key="GridCell.Tab.1.bottom" timestamp="1593948109585">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="724" height="266" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593948109585" />
+    <state width="724" height="266" key="GridCell.Tab.1.center" timestamp="1593948109584">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="724" height="266" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1593948109584" />
+    <state width="724" height="266" key="GridCell.Tab.1.left" timestamp="1593948109584">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="724" height="266" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1593948109584" />
+    <state width="724" height="266" key="GridCell.Tab.1.right" timestamp="1593948109585">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="724" height="266" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1593948109585" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Exam4.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/exam1.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

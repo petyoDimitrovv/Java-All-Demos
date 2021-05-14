@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2e5a9293-c888-4b71-b041-aeef4c6fdc3f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cR38mBKhlWEIPlieXEhRr7G7pG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.Demo">
+    <configuration name="Courses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Courses" />
+      <module name="Ass.ArraysExercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo" />
+      <module name="Ass.ArraysExercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LegendaryFarming" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LegendaryFarming" />
+      <module name="Ass.ArraysExercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MinerTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MinerTask" />
+      <module name="Ass.ArraysExercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentAcademy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StudentAcademy" />
+      <module name="Ass.ArraysExercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Courses" />
+      <item itemvalue="Application.Demo" />
+      <item itemvalue="Application.LegendaryFarming" />
+      <item itemvalue="Application.MinerTask" />
+      <item itemvalue="Application.StudentAcademy" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.LegendaryFarming" />
+        <item itemvalue="Application.Courses" />
+        <item itemvalue="Application.StudentAcademy" />
+        <item itemvalue="Application.MinerTask" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e5a9293-c888-4b71-b041-aeef4c6fdc3f" name="Default Changelist" comment="" />
+      <created>1590477421935</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590477421935</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="724" height="208" key="GridCell.Tab.0.bottom" timestamp="1590568538709">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="724" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590568538709" />
+    <state width="724" height="208" key="GridCell.Tab.0.center" timestamp="1590568538709">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="724" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1590568538709" />
+    <state width="724" height="208" key="GridCell.Tab.0.left" timestamp="1590568538709">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="724" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1590568538709" />
+    <state width="724" height="208" key="GridCell.Tab.0.right" timestamp="1590568538709">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="724" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1590568538709" />
+    <state x="849" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1591109400252">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="849" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1591109400252" />
+    <state x="418" y="33" key="new project wizard" timestamp="1591109486104">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="418" y="33" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1591109486104" />
+  </component>
+</project>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aa1aeca5-496c-41c3-8566-97a2aa33ee17" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1b7OpShN5jE5yiWsvp4wOvDwkSk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RunManager" selected="Application.Demo">
+    <configuration name="ArrRotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrRotation" />
+      <module name="ArraysExercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BiggestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BiggestNumber" />
+      <module name="ArraysExercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo" />
+      <module name="ArraysExercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EqualSums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EqualSums" />
+      <module name="ArraysExercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZigZag" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ZigZag" />
+      <module name="ArraysExercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ArrRotation" />
+      <item itemvalue="Application.BiggestNumber" />
+      <item itemvalue="Application.Demo" />
+      <item itemvalue="Application.EqualSums" />
+      <item itemvalue="Application.ZigZag" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.EqualSums" />
+        <item itemvalue="Application.BiggestNumber" />
+        <item itemvalue="Application.ArrRotation" />
+        <item itemvalue="Application.ZigZag" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa1aeca5-496c-41c3-8566-97a2aa33ee17" name="Default Changelist" comment="" />
+      <created>1587979847254</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587979847254</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="726" height="208" key="GridCell.Tab.0.bottom" timestamp="1588142899758">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="726" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588142899758" />
+    <state width="726" height="208" key="GridCell.Tab.0.center" timestamp="1588142899758">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="726" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588142899758" />
+    <state width="726" height="208" key="GridCell.Tab.0.left" timestamp="1588142899758">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="726" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588142899758" />
+    <state width="726" height="208" key="GridCell.Tab.0.right" timestamp="1588142899758">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="726" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588142899758" />
+    <state width="726" height="261" key="GridCell.Tab.1.bottom" timestamp="1588085884263">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="726" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588085884263" />
+    <state width="726" height="261" key="GridCell.Tab.1.center" timestamp="1588085884263">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="726" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1588085884263" />
+    <state width="726" height="261" key="GridCell.Tab.1.left" timestamp="1588085884263">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="726" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1588085884263" />
+    <state width="726" height="261" key="GridCell.Tab.1.right" timestamp="1588085884263">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="726" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1588085884263" />
+    <state x="555" y="58" key="SettingsEditor" timestamp="1588063010370">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="555" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1588063010370" />
+    <state x="849" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1588155398252">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="849" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1588155398252" />
+    <state x="418" y="33" key="new project wizard" timestamp="1588155412422">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="418" y="33" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1588155412422" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Demo.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
